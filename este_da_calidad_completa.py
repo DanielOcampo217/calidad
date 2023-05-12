@@ -101,7 +101,7 @@ def verificar_calidad(conteo_clave_agente, total_palabras_agente, conteo_clave_c
 
     
 if __name__ == "__main__":
-    archivo_audio = r"C:\Users\Cyber\Desktop\emociones\llamada\20230327-100427_5556042009_CCMXCCI14470_3003-all.wav"
+    archivo_audio = r"C:\Users\Cyber\Desktop\emociones\llamada\llamada_completa_2.wav"
     palabras_clave = ['habla', 'banco']
     threshold = 0.05
     
